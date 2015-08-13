@@ -2,7 +2,7 @@ package mihir.connect;
 
 public class URLConstants {
 	
-	public final static String BASIC_URL = "https://www.google.co.in/?gfe_rd=cr&ei=aODIVfTFOevI8AfE7paYCg";
+	public final static String BASIC_URL = "https://translate.google.co.in/#en/mr/";
 	private StringBuilder URLWithQuery = new StringBuilder(BASIC_URL);
 	
 	
